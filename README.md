@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 Website : [The blog of Kushal Juneja](https://www.kushalj.in)
-Mastadon : @kushalj@defcon.social
+Mastadon : [@kushalj@defcon.social](https://defcon.social/@kushalj)
